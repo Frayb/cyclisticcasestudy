@@ -50,23 +50,27 @@ Dashboard
 
 
 # Key Findings
-1. Total Number of Rides
-### Annual Members: 
+### 1. Total Number of Rides
+Annual Members: 
 - Annual members accounted for a higher total number of rides compared to casual riders. This indicates that annual members tend to use the service more frequently.
 
-2. Ride Duration
-### Casual Riders: 
+### 2. Ride Duration
+Casual Riders: 
   - Casual riders generally have longer ride durations compared to annual members. This suggests that casual riders might be using the bikes for more leisurely or exploratory purposes.
-### Annual Members: 
+Annual Members: 
   - Annual members tend to have shorter ride durations, indicating they may use the service for commuting or short trips.
 
-3. Usage Patterns by Day of the Week
-- Casual Riders: The highest usage among casual riders is on weekends (Saturday and Sunday), suggesting they are more likely to use the service for recreational purposes.
-- Annual Members: Annual members show consistent usage throughout the week with a slight peak on weekdays, indicating usage for daily commutes.
+### 3. Usage Patterns by Day of the Week
+Casual Riders: 
+  - The highest usage among casual riders is on weekends (Saturday and Sunday), suggesting they are more likely to use the service for recreational purposes.
+Annual Members:
+  - Annual members show consistent usage throughout the week with a slight peak on weekdays, indicating usage for daily commutes.
 
-4. Monthly Usage Trends
-Casual Riders: There is a noticeable increase in the number of rides by casual riders during the summer months, implying that they are more likely to use the service during favorable weather conditions.
-Annual Members: Annual members exhibit a more consistent monthly usage pattern, though there is a slight increase in the summer months.
+### 4. Monthly Usage Trends
+Casual Riders: 
+  - There is a noticeable increase in the number of rides by casual riders during the summer months, implying that they are more likely to use the service during favorable weather conditions.
+Annual Members:
+  - Annual members exhibit a more consistent monthly usage pattern, though there is a slight increase in the summer months.
 
 ![ride_month](images/month.png)
 ![ride_week](images/week.png)
