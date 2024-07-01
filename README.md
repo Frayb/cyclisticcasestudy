@@ -45,4 +45,4 @@ The data has been made available by Motivate International Inc. It is credible a
 ## Share
 The dashboard I created for this project can be found on Tableau [here](https://public.tableau.com/app/profile/fraol.bekele/viz/Cyclistsridesharecasestudy/Dashboard1).
 
-![Dashboard](images/Screenshot 2024-07-01 040341.png)
+![Dashboard](images/dashboard.png)
