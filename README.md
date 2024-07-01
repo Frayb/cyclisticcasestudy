@@ -86,7 +86,7 @@ Annual Members:
 - Casual Riders: Casual riders have a higher preference for electric bikes compared to annual members.
 - Annual Members: Annual members use classic bikes more frequently than casual riders, possibly due to cost considerations or familiarity.
 
-# Share
+# Act
 
 Targeted Campaigns:
 - For Casual Riders: Design targeted campaigns promoting the benefits of annual memberships during peak recreational periods (summer and weekends). Highlight potential cost savings and convenience for frequent use.
