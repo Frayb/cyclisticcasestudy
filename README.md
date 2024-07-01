@@ -65,7 +65,7 @@ Annual Members: Annual members show consistent usage throughout the week with a 
 Casual Riders: There is a noticeable increase in the number of rides by casual riders during the summer months, implying that they are more likely to use the service during favorable weather conditions.
 Annual Members: Annual members exhibit a more consistent monthly usage pattern, though there is a slight increase in the summer months.
 
-![Dashboard](images/total ride by month.png)
+![ride_month](images/month.png)
 
 
 
