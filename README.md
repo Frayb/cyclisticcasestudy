@@ -86,4 +86,18 @@ Annual Members:
 - Casual Riders: Casual riders have a higher preference for electric bikes compared to annual members.
 - Annual Members: Annual members use classic bikes more frequently than casual riders, possibly due to cost considerations or familiarity.
 
+#Share
 
+Targeted Campaigns:
+- For Casual Riders: Design targeted campaigns promoting the benefits of annual memberships during peak recreational periods (summer and weekends). Highlight potential cost savings and convenience for frequent use.
+
+Digital Media Influence:
+- Use social media platforms to showcase stories and testimonials from current annual members about how they use Cyclistic for daily commutes and short trips.
+- Promote special offers and discounts for annual memberships through digital ads during peak usage periods for casual riders.
+
+Enhanced User Experience:
+- Improve the user experience by providing more information on popular routes, scenic areas, and events that casual riders might enjoy. This can be shared via the app or website to attract casual riders to become members.
+
+Incentives for Membership Conversion:
+- Offer limited-time promotions and incentives for casual riders who have multiple rides within a short period to convert to annual memberships.
+-Implement a pricing strategy that highlights the value and savings of a becoming a memebe by creating a noticeable price difference between memebers and casuals.
