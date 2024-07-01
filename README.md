@@ -51,29 +51,35 @@ Dashboard
 
 ## Key Findings
 1. Total Number of Rides
-Annual Members: Annual members accounted for a higher total number of rides compared to casual riders. This indicates that annual members tend to use the service more frequently.
+# Annual Members: 
+- Annual members accounted for a higher total number of rides compared to casual riders. This indicates that annual members tend to use the service more frequently.
 
 2. Ride Duration
-Casual Riders: Casual riders generally have longer ride durations compared to annual members. This suggests that casual riders might be using the bikes for more leisurely or exploratory purposes.
-Annual Members: Annual members tend to have shorter ride durations, indicating they may use the service for commuting or short trips.
+# Casual Riders: 
+  - Casual riders generally have longer ride durations compared to annual members. This suggests that casual riders might be using the bikes for more leisurely or exploratory purposes.
+# Annual Members: 
+  - Annual members tend to have shorter ride durations, indicating they may use the service for commuting or short trips.
 
 3. Usage Patterns by Day of the Week
-Casual Riders: The highest usage among casual riders is on weekends (Saturday and Sunday), suggesting they are more likely to use the service for recreational purposes.
-Annual Members: Annual members show consistent usage throughout the week with a slight peak on weekdays, indicating usage for daily commutes.
+- Casual Riders: The highest usage among casual riders is on weekends (Saturday and Sunday), suggesting they are more likely to use the service for recreational purposes.
+- Annual Members: Annual members show consistent usage throughout the week with a slight peak on weekdays, indicating usage for daily commutes.
 
 4. Monthly Usage Trends
 Casual Riders: There is a noticeable increase in the number of rides by casual riders during the summer months, implying that they are more likely to use the service during favorable weather conditions.
 Annual Members: Annual members exhibit a more consistent monthly usage pattern, though there is a slight increase in the summer months.
 
 ![ride_month](images/month.png)
+![ride_week](images/week.png)
 
 
 
-5. Popular Start and End Stations
-Top Stations: Both annual members and casual riders tend to start and end their rides at popular tourist or central locations. However, the specific stations may differ slightly, with casual riders favoring more tourist-centric locations.
 
-6. Bike Type Preferences
-Casual Riders: Casual riders have a higher preference for electric bikes compared to annual members.
-Annual Members: Annual members use classic bikes more frequently than casual riders, possibly due to cost considerations or familiarity.
+5. Both anual and causual members to to be very active during the summer(May-Aug)
+6. Popular Start and End Stations
+- Top Stations: Both annual members and casual riders tend to start and end their rides at popular tourist or central locations. However, the specific stations may differ slightly, with casual riders favoring more tourist-centric locations.
+
+7. Bike Type Preferences
+- Casual Riders: Casual riders have a higher preference for electric bikes compared to annual members.
+- Annual Members: Annual members use classic bikes more frequently than casual riders, possibly due to cost considerations or familiarity.
 
 
