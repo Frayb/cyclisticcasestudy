@@ -49,15 +49,15 @@ Dashboard
 ![Dashboard](images/dashboard.png)
 
 
-## Key Findings
+# Key Findings
 1. Total Number of Rides
-# Annual Members: 
+### Annual Members: 
 - Annual members accounted for a higher total number of rides compared to casual riders. This indicates that annual members tend to use the service more frequently.
 
 2. Ride Duration
-# Casual Riders: 
+### Casual Riders: 
   - Casual riders generally have longer ride durations compared to annual members. This suggests that casual riders might be using the bikes for more leisurely or exploratory purposes.
-# Annual Members: 
+### Annual Members: 
   - Annual members tend to have shorter ride durations, indicating they may use the service for commuting or short trips.
 
 3. Usage Patterns by Day of the Week
